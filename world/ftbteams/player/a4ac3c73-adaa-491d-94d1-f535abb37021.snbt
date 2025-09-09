@@ -1,0 +1,15 @@
+{
+	id: "a4ac3c73-adaa-491d-94d1-f535abb37021"
+	type: "player"
+	player_name: "Ageoc"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Ageoc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A8FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

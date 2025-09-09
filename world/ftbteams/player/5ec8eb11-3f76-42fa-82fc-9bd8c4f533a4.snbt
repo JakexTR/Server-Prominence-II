@@ -1,0 +1,15 @@
+{
+	id: "5ec8eb11-3f76-42fa-82fc-9bd8c4f533a4"
+	type: "player"
+	player_name: "Nukekiller_234"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Nukekiller_234"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFAA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

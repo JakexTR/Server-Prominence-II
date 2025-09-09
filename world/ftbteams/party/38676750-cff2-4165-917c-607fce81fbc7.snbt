@@ -1,0 +1,25 @@
+{
+	id: "38676750-cff2-4165-917c-607fce81fbc7"
+	type: "party"
+	owner: "3399aa4a-e390-45cb-9cdb-55a715e19ef4"
+	ranks: {
+		5ec8eb11-3f76-42fa-82fc-9bd8c4f533a4: "member"
+		3399aa4a-e390-45cb-9cdb-55a715e19ef4: "owner"
+		a4ac3c73-adaa-491d-94d1-f535abb37021: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Ageoc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF0000"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1757171190497L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"FraanciKilleer\"}]}" }
+		{ from: "3399aa4a-e390-45cb-9cdb-55a715e19ef4", date: 1757171210664L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ageoc\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1757171213902L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ageoc\"}]}" }
+		{ from: "3399aa4a-e390-45cb-9cdb-55a715e19ef4", date: 1757173072112L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Nukekiller_234\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1757173077215L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Nukekiller_234\"}]}" }
+	]
+	extra: { }
+}
