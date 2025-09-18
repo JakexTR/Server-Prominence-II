@@ -1,1 +1,81 @@
-[11:52:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49717870ms or 994357 ticks behind
+[00:03:42] [Server thread/INFO]: Ageoc has made the advancement [Who's the Pillager Now?]
+[00:07:04] [Worker-Main-13/WARN]: Non-existent template pool reference: ctov:village/bounty/plains
+[00:07:04] [Worker-Main-13/WARN]: Non-existent template pool reference: ctov:village/waystone/normal
+[00:07:04] [Worker-Main-13/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [Worker-Main-9/WARN]: Empty or non-existent pool: minecraft:
+[00:07:12] [pool-12-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_snowy_igloo], ResourceKey[minecraft:worldgen/structure / ctov:medium/village_mountain], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_savanna], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:small/village_desert]] from pos class_2338{x=5243, y=68, z=-2923}
+[00:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3588ms or 71 ticks behind
+[00:07:17] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[00:07:17] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[00:07:17] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[00:07:19] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[00:07:19] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/vampirism/totem
+[00:07:19] [Worker-Main-3/WARN]: Non-existent template pool reference: ctov:village/bounty/desert
+[00:20:30] [Worker-Main-35/WARN]: Tried to access a block entity before it was created. class_2338{x=5555, y=98, z=-6556}
+[00:20:30] [Worker-Main-35/WARN]: Tried to access a block entity before it was created. class_2338{x=5555, y=98, z=-6556}
+[00:20:39] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:20:46] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:20:49] [Server thread/INFO]: Ageoc lost connection: Disconnected
+[00:20:49] [Server thread/INFO]: Ageoc left the game
+[00:20:49] [Server thread/INFO]: remove player wand
+[00:20:49] [Server thread/INFO]: Updating all forceload tickets for a4ac3c73-adaa-491d-94d1-f535abb37021
+[00:21:06] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:21:06] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:21:07] [User Authenticator #4/INFO]: UUID of player Ageoc is a4ac3c73-adaa-491d-94d1-f535abb37021
+[00:21:07] [Server thread/INFO]: [Handshake] Sending channel query
+[00:21:07] [Netty Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:21:07] [Netty Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:21:07] [Server thread/INFO]: Ageoc[/26.226.246.22:50102] logged in with entity id 113518 at (5307.76129275269, 115.91815948591658, -6656.608921415506)
+[00:21:07] [Server thread/INFO]: Sending server config values to client
+[00:21:07] [Server thread/INFO]: Syncing config to Ageoc (a4ac3c73-adaa-491d-94d1-f535abb37021)
+[00:21:07] [Server thread/INFO]: Loading config from file...
+[00:21:08] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[00:21:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[00:21:08] [Server thread/INFO]: Ageoc joined the game
+[00:21:08] [Server thread/INFO]: Loading Configs for Sortilege
+[00:21:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[00:21:08] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[00:21:08] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[00:21:08] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[00:21:08] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity FirebirdEntity['?ar-ptak'/113519, l='ServerLevel[world]', x=5307.76, y=115.09, z=-6656.61] as it would cause deadlock
+[00:21:08] [Server thread/INFO]: Updating all forceload tickets for a4ac3c73-adaa-491d-94d1-f535abb37021
+[00:21:08] [Server thread/INFO]: PLAYER_JOIN
+[00:21:08] [Server thread/INFO]: add_player wand
+[00:21:08] [Server thread/INFO]: config sent
+[00:21:09] [Netty Server IO #7/INFO]: Receiving client config
+[00:21:10] [Netty Server IO #7/INFO]: Channel update: Ageoc -> default
+[00:21:10] [Netty Server IO #7/INFO]: Priority overwritten for player Ageoc. Claiming: GRAVE / Robbing: INVENTORY
+[00:21:13] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=5441, y=-29, z=-6785}
+[00:21:13] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=5442, y=-29, z=-6785}
+[00:21:16] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:21:17] [Netty Server IO #7/INFO]: [do_a_barrel_roll] Client of Ageoc accepted server config.
+[00:21:44] [pool-12-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / ctov:small/village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_grove], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / ctov:large/village_mountain_alpine], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga_fortified], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_classic], ResourceKey[minecraft:worldgen/structure / ctov:large/village_taiga]] from pos class_2338{x=5291, y=67, z=-6933}
+[00:21:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2551ms or 51 ticks behind
+[00:21:49] [Worker-Main-35/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[00:21:49] [Worker-Main-35/WARN]: Non-existent template pool reference: ctov:village/waystone/sand
+[00:23:02] [Server thread/INFO]: Ageoc lost connection: Disconnected
+[00:23:02] [Server thread/INFO]: Ageoc left the game
+[00:23:02] [Server thread/INFO]: remove player wand
+[00:23:02] [Server thread/INFO]: Updating all forceload tickets for a4ac3c73-adaa-491d-94d1-f535abb37021
+[00:31:01] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1887, y=-5, z=-4066}
+[00:31:37] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1398, y=-28, z=-4315}
+[00:31:37] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1398, y=-28, z=-4317}
+[00:33:08] [Worker-Main-7/WARN]: Tried to access a block entity before it was created. class_2338{x=1887, y=-5, z=-4066}
+[00:33:27] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=1398, y=-28, z=-4317}
+[00:39:13] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:48:35] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:48:36] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:48:37] [Server thread/WARN]: Nukekiller_234 moved wrongly!
+[00:52:13] [Server thread/INFO]: Nukekiller_234 lost connection: Disconnected
+[00:52:13] [Server thread/INFO]: Nukekiller_234 left the game
+[00:52:13] [Server thread/INFO]: remove player wand
+[00:52:13] [Server thread/INFO]: Updating all forceload tickets for 5ec8eb11-3f76-42fa-82fc-9bd8c4f533a4
